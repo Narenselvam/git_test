@@ -1,3 +1,3 @@
 # git_test
-My repo tets!!
+My repo test!!
 Hello maaplea
